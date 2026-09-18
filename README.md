@@ -1,7 +1,7 @@
 <!-- BANNER -->
-<p align="center">
+<h2 align="center">
     Rahul Singh
-</p>
+</h2>
 
 ---
 
