@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">🚀 Web Developer | Blockchain Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Blockchain Enthusiast</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=RahulSH004&label=Profile%20views&color=brightgreen&style=flat"><img src="https://komarev.com/ghpvc/?username=RahulSH004&label=Profile%20views&color=brightgreen&style=flat" alt="RahulSH004" /></a>
@@ -13,15 +13,8 @@
 
 ---
 
-## 🌟 About Me  
-- 🛠 Fullstack developer focused on **blockchain** and **decentralized apps**
-- 🔗 Passionate about **Web3**, **Web2**, **Solana**, and **smart contracts**
-- 🎨 Building user-friendly, scalable applications with **React + TypeScript + Node**
-- 🚀 Always exploring new technologies to merge Web2 simplicity with Web3 power  
 
----
-
-## 🚀 Tech Stack  
+## Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -43,7 +36,7 @@
 
 ---
 
-## ⚙ Tools & Platforms  
+## Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -61,21 +54,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSH004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulSH004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RahulSH004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  
 </p>
 
----
-
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="mailto:rs739025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rahul-singh-b14676259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
-<p align="center"><em>✨ Always learning. Always building. 🚀</em></p>
